@@ -1,0 +1,5 @@
+# tea.yaml example
+version: 1.0.0
+codeOwners:
+- '0x14c3497f70d4F851ccFfFa95d0b03b1ab7218695'
+quorum: 1 
